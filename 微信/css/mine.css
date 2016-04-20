@@ -1,0 +1,50 @@
+body{
+	background-color: 	#F0F0F0;
+}
+
+hr{
+	margin: 0;
+}
+
+button:click{
+	outline: none;
+}
+
+.userImf small
+{
+	font-size: 10px;
+	opacity: 0.6;
+}
+
+.line{
+	margin-top: 10px;
+	background-color: white;
+	padding: 10px;
+}
+
+.userImf{
+	text-align: left;
+}
+
+.publish{
+	padding-top: 10px;
+}
+
+.publish a{
+	font-size: 15px;
+	font-family: Arial Black, Gadget, sans-serif;
+}
+
+.quit{
+	margin-top: 10px;
+	margin-left: -10px;
+}
+
+.quitmsg{
+	margin-top: 50px;
+	text-align: center;
+}
+.ok,.cansel{
+	width: 100%;
+	margin: 30px;
+}

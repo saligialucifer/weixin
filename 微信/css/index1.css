@@ -1,0 +1,41 @@
+body{
+	background-color: 	#F0F0F0;
+}
+
+.price{
+	position: absolute;
+	background: orange;
+	color:white;
+	border-radius: 5px;
+	margin: 5px;
+}
+
+.picture-box{
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+.little-word{
+	font-size: 10px;
+	opacity: 0.6;
+}
+
+.button-box{
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+}
+
+.talk{
+	color: orange;
+}
+
+.button-nav{
+	width: 100%;
+}
+
+.button{
+	display: inline-block;
+	width: 33%
+}
